@@ -11,7 +11,7 @@ gem 'bootstrap-sass'
 group :development, :test do 
 gem 'sqlite3'
 end
-Group :production do 
+group :production do 
 gem 'pg'
 gem 'rails_12factor'	
 end
